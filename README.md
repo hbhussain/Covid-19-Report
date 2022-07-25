@@ -1,4 +1,4 @@
-# Covid-19-Report 2020-2022 Live Report
+# Covid-19-Report 2020-2022 Report
 Report Analysis for Global Covid19 Infections
 
 #  Problem Statement
